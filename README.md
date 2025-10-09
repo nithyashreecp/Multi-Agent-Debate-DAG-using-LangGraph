@@ -78,7 +78,7 @@ The debate is structured using a **Directed Acyclic Graph (DAG)** with the follo
 3. **MemoryNode**: Stores and updates relevant dialogue
 4. **JudgeNode**: Evaluates debate and declares winner
 
-![DAG Diagram](dag_diagram.png)
+
 
 ---
 
